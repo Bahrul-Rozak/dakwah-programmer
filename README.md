@@ -2,7 +2,7 @@
 
 Simple static blog using markdown and Next.js
 
-[DAKWAH PROGRAMMER](#)
+[DAKWAH PROGRAMMER](https://dakwah-programmer.vercel.app/)
 
 ## Usage
 
