@@ -4,7 +4,7 @@ Simple static blog using markdown and Next.js
 
 [DAKWAH PROGRAMMER](https://dakwah-programmer.vercel.app/)
 
-## Usage
+## Usage and Clone this Repository
 
 ```bash
 # Install dependencies
